@@ -19,7 +19,7 @@ global.APIKeys = {
 // setting 
 global.autoread = false // auto read message
 global.autobio = false //auto ganti bio
-global.anticall = true //anti call 
+global.anticall = false //anti call 
 global.userRegister = false
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 
@@ -31,14 +31,14 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "Alpha Bot" //namabot kalian
+global.botname = "Inferno Bot" //namabot kalian
 global.ownername = "Inferno" //nama kalian
 global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@inferno" //bebas asal jan hapus
 global.myweb2 = "https://s.id/BOTGITHUB" //bebas
 global.email = "numbfeelings3@gmail.com" //bebas
 global.region = "Buddhist" //bebas
-global.timezone = 'Asia/Colombo' //  timezone wib
+global.timezone = 'Nigeria' //  timezone wib
 global.premium = ['2347043836592'] //premium user
 global.owner = ["2437043836592"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "2437043836592" // nomor wa kalian
